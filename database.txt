@@ -1,0 +1,19 @@
+
+myemail@proton.com,this is my subject,here we go again
+second@sgmail.com,alkdhfl,just testing
+myemail@gmail.com,this is the subject,this is my messsage
+myemail@gmail.com,asdg,adfgafdg
+justmailL@gmail.com,first subject,this is the second subject
+adf@afdgsdf.com,gafdg,adfga
+adf@afdgsdf.com,alhdf,asdfhafd adfadf
+justmailL@gmail.com,adfa,asdfadsf
+kjdhfg@gmail.com,ajlksdfj,error fixed
+first@gmail.com,this is the subject,my message is written here
+first@gmail.com,this is the subject,my message is written here
+first@gmail.com,ASD,ASDSd
+sdASD@ADFG.COM,ADF,ASDFASDFADS
+first@gmail.com,this is subject,this is my message
+first@gmail.com,subject area,asdfasdf
+myemail@gmail.com,alksdjfklad,this is the test message
+second@sgmail.com,adfjkl,aklsdjfq
+final@gmail.com,this is fine,this is final of the final

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Test Badges</title>
+    <style>
+        #tryhackme-badge {
+            position: fixed; 
+            right: 0; 
+            top: 20px; 
+            width: 120px; 
+            z-index: 1000; 
+        }
+        #dynamic-badge {
+            position: fixed; 
+            right: 0; 
+            top: 150px; 
+            width: 300px; 
+            height: 100px; 
+            z-index: 1000; 
+            border: none; 
+        }
+    </style>
+</head>
+<body>
+    <img src="https://tryhackme-badges.s3.amazonaws.com/cy1888.png" alt="TryHackMe Badge" id="tryhackme-badge" />
+    <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=946805" id="dynamic-badge"></iframe>
+</body>
+</html>
